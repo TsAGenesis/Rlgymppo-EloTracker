@@ -1,2 +1,1 @@
-# Rlgymppo-EloTracker
-an Elotracking system for PPO
+The Elo Tracker is a lightweight tool that calculates and updates player (or team) skill ratings using the Elo algorithm. After each match it adjusts ratings, logs your performance history, and visualizes rank changes so you can instantly see who’s climbing—or slipping—over time.
